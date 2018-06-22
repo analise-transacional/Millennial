@@ -88,3 +88,24 @@
 .pagination-active:hover {
   background-color: #e0e0e0;
 }
+
+.agenda {
+  margin: 3em 0;
+
+  h2 {
+    margin: 1em 0;
+  }
+
+  table, th, td {
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+  }
+}
+
+.at-event {
+  background-color: #298426;
+  color: white;
+  font-weight: bold;
+}

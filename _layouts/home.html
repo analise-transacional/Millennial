@@ -12,3 +12,27 @@ title: Home
     <p>Porque não deixam as emoções de lado e começam a ser mais práticos?</p>
   </div>
 </div>
+
+<section class="agenda">
+  <h2>Programe-se</h2>
+  <div id="agenda"></div>
+</section>
+
+<script type="application/javascript">
+  $(document).ready(function () {
+    var eventData = [
+      {"date":"2018-06-22","title":"AT101 - Joinville/SC", "classname":"at-event"},
+      {"date":"2018-06-23","title":"AT101 - Joinville/SC", "classname":"at-event"}
+    ];
+      $("#agenda").zabuto_calendar({
+        data: eventData,
+        language: "pt",
+        weekstartson: 0,
+        show_previous: false,
+        nav_icon: {
+          prev: '<i class="fa fa-chevron-left"></i>',
+          next: '<i class="fa fa-chevron-right"></i>'
+        }
+      });
+  });
+</script>
