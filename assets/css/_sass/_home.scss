@@ -1,3 +1,37 @@
+.hero {
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero-image {
+  background-color: #298426;
+  height: 400px;
+  position: relative;
+  mix-blend-mode: multiply;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  width: 90%;
+
+  h1 {
+    font-size: 3.5rem;
+    margin: 30px 0;
+  }
+
+  p {
+    margin: 0;
+    font-size: 1rem;
+  }
+}
+
 .featured-posts {
   height: 400px;
   margin: 5px 10px 10px;

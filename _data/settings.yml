@@ -8,7 +8,8 @@ google-ID: ''
 bitrix-ID: '25493306'
 
 menu:
-- {name: 'Sobre', folder: 'pages', file: 'about.html'}
+- {name: 'Mídia', folder: 'pages', file: 'media.html'}
+- {name: 'Sobre', folder: 'pages', file: 'sobre.html'}
 - {name: 'Contato', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -19,8 +20,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Mais recente'
-  previous_page: 'Mais antigo'
+  next_page: '>'
+  previous_page: '<'
 
 sharing_button_prompt: 'Compartilhe!'
 
