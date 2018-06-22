@@ -58,6 +58,7 @@
   .dropbtn {
       background-color: white;
       color: black;
+      width: 45px;
       padding: 16px;
       margin-top: 4px;
       font-size: 16px;
@@ -66,11 +67,12 @@
   }
   .dropdown {
       position: relative;
-      display: inline-block;
+      float: right;
   }
   .dropdown-content {
       display: none;
       position: absolute;
+      left: -115px;
       background-color: #f9f9f9;
       min-width: 160px;
       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -90,5 +92,11 @@
   }
   .dropdown:hover .dropbtn {
       background-color: #f1f1f1;
+  }
+}
+
+@media (max-width: 390px) {
+  .site-title-text {
+    display: none;
   }
 }

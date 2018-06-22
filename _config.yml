@@ -13,11 +13,7 @@ sass:
   sass_dir: assets/css
   style: :nested
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Analise Transacional"
-description:	       ""
+description:	       "Aprimorando as relações humanas"
 author:              "Simone de Andrade Klober"
 
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml

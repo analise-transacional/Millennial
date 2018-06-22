@@ -1,6 +1,11 @@
 <header class="site-header">
   <h3 class="site-title">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
+    <a href="{{ site.github.url }}/" style="display: flex;">
+      <img height="40" style="display: inline; padding: 3px 0;"
+        src="{{ site.github.url }}/assets/img/logo.png"
+        alt="{{ site.title }}">
+      <span class="site-title-text">{{ site.title }}</span>
+    </a>
   </h3>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
@@ -16,10 +21,6 @@
     <div class="dropdown-content">
       {% for item in site.data.settings.menu %}
         <a href="{{ site.github.url }}/pages/{{ item.file }}" class="menu-link">{{ item.name }}</a>
-      {% endfor %}
-
-      {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
       {% endfor %}
     </div>
   </div>

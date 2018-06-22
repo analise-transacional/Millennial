@@ -4,7 +4,6 @@ title: Home
 ---
 
 {% for post in paginator.posts %}
-
 <article>
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
@@ -12,7 +11,6 @@ title: Home
     </div>
   </a>
 </article>
-
 {% endfor %}
 
 <!-- Pagination links -->

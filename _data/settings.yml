@@ -5,15 +5,17 @@ disqus:
 
 google-ID: ''
 
+bitrix-ID: '25493306'
+
 menu:
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Sobre', folder: 'pages', file: 'about.html'}
+- {name: 'Contato', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'linkedin', link: 'https://www.linkedin.com/company/analise-transacional.com'}
 - {icon: 'facebook', link: 'https://facebook.com/analisetransacionalSC/'}
 - {icon: 'instagram', link: 'https://instagram.com/analisetransacional'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/company/analise-transacional.com'}
 
 # Customize site text
 pagination:
