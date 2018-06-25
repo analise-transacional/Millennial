@@ -12,7 +12,7 @@ tags:
 - Eric Berne
 - Bert Hellinger
 - Constelações Familiares
-imagem: ''
+imagem: "/pexels-photo-398532.jpeg"
 ---
 Quem me conhece e convive comigo há mais tempo, sabe que a busca pela leveza é um objetivo de meu autodesenvolvimento há muitos anos. Sobretudo nas relações, interações e na forma de viver. Meu mantra “leve a vida leve” me acompanha todos os dias e já é tão natural para mim, que ocorre automaticamente sem me dar conta que estou pensando nisso. Durante esses anos de busca, pude perceber e sentir o quanto o peso na forma de enxergar a mim e ao mundo funcionava como um fardo, me prendendo aos acontecimentos, relacionamentos e contextos que eu vivia, impedindo minhas asas de funcionarem para que eu alçasse voos mais longos. 
 
