@@ -1,0 +1,44 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: layout
+  name: layout
+  default: post
+  config:
+    required: true
+  hidden: true
+- type: text
+  name: title
+  label: Título
+  config:
+    required: true
+- type: text
+  name: author
+  label: Autor
+  config:
+    required: true
+  default: Simone Klober
+- type: text
+  name: categories
+  label: Categorias
+  config:
+    required: true
+  default: artigo
+- type: tag_list
+  name: tags
+  label: Tags
+- type: datetime
+  name: date
+  label: Data
+  config:
+    date_format: DD/MM/YYYY
+    required: true
+- type: file
+  name: imagem
+  label: Imagem
+  config:
+    maxSize: '1'
+pages:
+- _posts/artigos/a-sutileza-da-intimidade-no-ambiente-pessoal-e-profissional.md
