@@ -18,7 +18,7 @@ title: Home
   <div id="agenda"></div>
 </section>
 
-<section class"recent">
+<section id="recent-posts" class"recent">
   <h2>Recentes</h2>
 
   {% for post in paginator.posts %}
@@ -36,13 +36,13 @@ title: Home
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.next_page %}
-      <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">{{ site.data.settings.pagination.previous_page }}</a>
+      <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}#recent-posts" class="next">{{ site.data.settings.pagination.previous_page }}</a>
     {% else %}
       <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
     {% endif %}
   
     {% if paginator.previous_page %}
-      <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
+      <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}#recent-posts">{{ site.data.settings.pagination.next_page }}</a>
       {% else %}
         <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
     {% endif %}
