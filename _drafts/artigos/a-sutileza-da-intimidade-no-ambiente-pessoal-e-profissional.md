@@ -5,7 +5,7 @@ author: Simone Klober
 categories: artigo
 date: 2018-06-25 00:00:00 -0300
 tags: []
-imagem: "/assets/sutileza.jpg"
+imagem: "/media/sutileza.jpg"
 ---
 Embora possamos pensar que esta palavra se limita unicamente ao contexto sexual, em uma relação a dois, percebemos que **intimidade** é bem mais do que isso, visto que muitos casais podem passar anos convivendo, sem ter um momento de intimidade real.
 
