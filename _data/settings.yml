@@ -8,7 +8,8 @@ google-ID: ''
 bitrix-ID: '25493306'
 
 menu:
-- {name: 'Mídia', folder: 'pages', file: 'media.html'}
+- {name: 'Artigos', folder: 'pages', file: 'artigos.html'}
+- {name: 'Mídia', folder: 'pages', file: 'midia.html'}
 - {name: 'Sobre', folder: 'pages', file: 'sobre.html'}
 - {name: 'Contato', folder: 'pages', file: 'contact.html'}
 
@@ -25,6 +26,6 @@ pagination:
 
 sharing_button_prompt: 'Compartilhe!'
 
-related_posts: 'Você pode se interessar também...'
+related_posts: 'Artigos relacionados...'
 
 post_date_prefix: ''

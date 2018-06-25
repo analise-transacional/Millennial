@@ -1,9 +1,10 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
-paginate:            1
+paginate:            3
 
 # Build settings
+timezone:            America/Sao_Paulo
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
@@ -15,5 +16,5 @@ sass:
 
 title:		           "Analise Transacional"
 description:	       "Aprimorando as relações humanas"
-author:              "Simone de Andrade Klober"
+author:              "Simone Klober"
 

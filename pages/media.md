@@ -1,4 +1,0 @@
----
-layout: media
-title: Mídias
----
