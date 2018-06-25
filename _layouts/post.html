@@ -36,7 +36,7 @@ layout: default
 
   {% if page.image %}
     <div class="featured-image">
-      <img src="{{ site.baseUrl }}/assets/img/{{ page.image }}">
+      <img src="{{ site.baseUrl }}/media/{{ page.image }}">
     </div>
   {% endif %}
 
@@ -47,9 +47,9 @@ layout: default
   <div class="post-share">
     <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
     <div class="sharing-icons">
-      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-      <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.baseUrl }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.baseUrl }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+      <a href="https://plus.google.com/share?url={{ site.baseUrl }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
     </div>
   </div>
 
@@ -63,10 +63,10 @@ layout: default
           {% else %}
             <li>
               <h3>
-                <a href="{{ site.github.url }}{{ mypost.url }}">
+                <a href="{{ site.baseUrl }}{{ mypost.url }}">
                   <div class="related-thumbnail">
                     {% if mypost.image %}
-                      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
+                      <img src="{{ site.url }}{{ site.baseurl }}/media/{{ mypost.image }}">
                     {% endif %}
                   </div>
                   <div class="related-title">

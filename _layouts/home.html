@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="hero"
-  style="background-image:url({{ site.github.url }}/assets/img/home.jpg);">
+  style="background-image:url({{ site.baseUrl }}/assets/img/home.jpg);">
   <div class="hero-image"></div>
   <div class="hero-text">
     <h1>{{ site.title }}</h1>
@@ -24,10 +24,10 @@ title: Home
   {% for post in paginator.posts %}
   
   <article>
-    <a href="{{ site.github.url }}{{ post.url }}">
-      <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+    <a href="{{ site.baseUrl }}{{ post.url }}">
+      <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.baseUrl }}/media/{{ post.image }})"{% endif %}>
         <h2><span>{{ post.title }}</span></h2>
-      </div>
+      </div
     </a>
   </article>
   
@@ -36,7 +36,7 @@ title: Home
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.next_page %}
-      <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}#recent-posts" class="next">{{ site.data.settings.pagination.previous_page }}</a>
+      <a class="pagination-button pagination-active" href="{{ site.baseUrl }}{{ paginator.next_page_path }}#recent-posts" class="next">{{ site.data.settings.pagination.previous_page }}</a>
     {% else %}
       <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
     {% endif %}
