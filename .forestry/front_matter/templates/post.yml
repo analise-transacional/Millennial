@@ -40,3 +40,5 @@ fields:
   label: Imagem
   config:
     maxSize: '1'
+pages:
+- _posts/artigos/a-sutileza-da-intimidade-no-ambiente-pessoal-e-profissional.md
