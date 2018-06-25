@@ -4,8 +4,9 @@ layout: post
 author: Simone Klober
 categories: artigo
 date: 2018-06-25 00:00:00 -0300
-tags: []
-imagem: "/media/sutileza.jpg"
+tags:
+- analise transacional
+imagem: ''
 ---
 Embora possamos pensar que esta palavra se limita unicamente ao contexto sexual, em uma relação a dois, percebemos que **intimidade** é bem mais do que isso, visto que muitos casais podem passar anos convivendo, sem ter um momento de intimidade real.
 
