@@ -4,7 +4,7 @@ title: "Produtividade e Análise Transacional"
 author: "Simone Klober"
 categories: artigo
 tags: [aceitação,analise transacional, aprendizagem]
-image: 2017-01-24.jpg
+image: /media/2017-01-24.jpg
 ---
 
 *Na busca de melhores resultados, diante do cenário atual de alta competitividade imposto pelo mercado, é fundamental que as empresas busquem pela excelência no relacionamento interpessoal, valorizando seu capital humano e…*

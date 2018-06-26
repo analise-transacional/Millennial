@@ -4,7 +4,7 @@ title: "A busca pela eterna juventudade, Humana e Corporativa"
 author: "Simone Klober"
 categories: artigo
 tags: [aceitação,analise transacional, aprendizagem]
-image: 2017-02-10.jpg
+image: /media/2017-02-10.jpg
 ---
 
 *Qual a relação entre o desenvolvimento humano e o desenvolvimento organizacional? É possível traçar um paralelo entre ambos?*

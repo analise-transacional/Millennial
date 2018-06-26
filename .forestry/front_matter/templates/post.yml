@@ -36,11 +36,10 @@ fields:
     date_format: DD/MM/YYYY
     required: true
 - type: file
-  name: imagem
+  name: image
   label: Imagem
   config:
     maxSize: '1'
 pages:
-- conteudos.md
 - _posts/artigos/teste.md
 - _posts/artigos/2018-06-25-a-sutileza-da-intimidade-no-ambiente-pessoal-e-profissional.md

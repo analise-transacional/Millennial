@@ -5,7 +5,7 @@ fields:
 - type: text
   label: layout
   name: layout
-  default: page
+  default: misc
   config:
     required: true
   hidden: false
@@ -14,23 +14,3 @@ fields:
   label: Título
   config:
     required: true
-- type: text
-  name: categories
-  label: Categorias
-  config:
-    required: true
-  default: conteudo
-- type: tag_list
-  name: tags
-  label: Tags
-- type: datetime
-  name: date
-  label: Data
-  config:
-    date_format: DD/MM/YYYY
-    required: true
-- type: file
-  name: imagem
-  label: Imagem
-  config:
-    maxSize: '1'

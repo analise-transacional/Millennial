@@ -4,7 +4,7 @@ title: "Atitudes e Crenças que nos impedem de sair da Zona de Conforto"
 author: "Simone Klober"
 categories: artigo
 tags: [aceitação,analise transacional, aprendizagem]
-image: 2017-02-21.jpg
+image: /media/2017-02-21.jpg
 ---
 
 *Eu nem tinha percebido, não tem importância, não foi tão ruim assim, poderia ter sido pior, não tem jeito, não há saída, não há nada que eu possa fazer…*

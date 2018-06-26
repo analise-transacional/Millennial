@@ -25,7 +25,7 @@ title: Home
   
   <article>
     <a href="{{ site.baseUrl }}{{ post.url }}">
-      <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.baseUrl }}/media/{{ post.image }})"{% endif %}>
+      <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.baseUrl }}{{ post.image }})"{% endif %}>
         <h2><span>{{ post.title }}</span></h2>
       </div
     </a>
