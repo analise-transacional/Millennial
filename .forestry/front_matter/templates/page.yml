@@ -8,7 +8,7 @@ fields:
   default: misc
   config:
     required: true
-  hidden: false
+  hidden: true
 - type: text
   name: title
   label: Título
