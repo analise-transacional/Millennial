@@ -1,7 +1,6 @@
 ---
-title: 'Conteúdos'
+title: Conteúdos
 layout: misc
-published: false
 ---
 Eric Berne escreveu e nos presenteou com......
 
