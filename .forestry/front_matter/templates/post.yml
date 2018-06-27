@@ -41,5 +41,6 @@ fields:
   config:
     maxSize: '1'
 pages:
+- _posts/artigos/2017-03-10-sucesso-tao-desejado-tao-temido.md
 - _posts/artigos/2018-06-25-a-sutileza-da-intimidade-no-ambiente-pessoal-e-profissional.md
 - _posts/artigos/teste.md
