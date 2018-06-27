@@ -92,6 +92,7 @@
 
 .agenda {
   margin: 3em 0;
+  min-height: 350px;
 
   h2 {
     margin: 1em 0;
@@ -103,10 +104,45 @@
     border-top: 0;
     border-bottom: 1px solid rgba(128, 128, 128, 0.3);
   }
+
+  #calendario {
+    width: 100%;
+  }
+
+  #evento {
+    width: 100%;
+    background-color: #298426;
+  }
+
+  @media (min-width: $phone-width) {
+    #calendario {
+      display: inline-block;
+      float: left;
+      width: 50%;
+    }
+
+    #evento {
+      display: inline-block;
+      width: 50%;
+    }
+  }
+
 }
 
 .at-event {
   background-color: #298426;
   color: white;
   font-weight: bold;
+}
+
+.at-event-selected {
+  background-color: red;
+
+  div {
+    background-color: red;
+  }
+}
+
+.hidden {
+  display: none;
 }

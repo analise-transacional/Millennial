@@ -13,13 +13,21 @@ title: Home
   </div>
 </div>
 
-<section class="agenda">
+<section class="agenda hidden">
   <h2>Programe-se</h2>
-  <div id="agenda"></div>
+  <div id="calendario">
+    <div id="zabuto-calendar"></div>
+  </div>
+  <div id="evento">
+    <h1 class="event-title"></h1>
+    <p class="event-date"></p>
+    <p class="event-location"></p>
+    <a target="_blank" href="">Inscreva-se!</a>
+  </div>
 </section>
 
-<section id="recent-posts" class"recent">
-  <h2>Recentes</h2>
+<section id="artigos-recentes" class"recent">
+  <h2>Artigos Recentes</h2>
 
   {% for post in paginator.posts %}
   
@@ -36,13 +44,13 @@ title: Home
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.next_page %}
-      <a class="pagination-button pagination-active" href="{{ site.baseUrl }}{{ paginator.next_page_path }}#recent-posts" class="next">{{ site.data.settings.pagination.previous_page }}</a>
+      <a class="pagination-button pagination-active" href="{{ site.baseUrl }}{{ paginator.next_page_path }}#artigos-recentes" class="next">{{ site.data.settings.pagination.previous_page }}</a>
     {% else %}
       <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
     {% endif %}
   
     {% if paginator.previous_page %}
-      <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}#recent-posts">{{ site.data.settings.pagination.next_page }}</a>
+      <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}#artigos-recentes">{{ site.data.settings.pagination.next_page }}</a>
       {% else %}
         <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
     {% endif %}
@@ -50,21 +58,17 @@ title: Home
   
 </section>
 
-<script type="application/javascript">
-  $(document).ready(function () {
-    var eventData = [
-      {"date":"2018-06-22","title":"AT101 - Joinville/SC", "classname":"at-event"},
-      {"date":"2018-06-23","title":"AT101 - Joinville/SC", "classname":"at-event"}
-    ];
-      $("#agenda").zabuto_calendar({
-        data: eventData,
-        language: "pt",
-        weekstartson: 0,
-        show_previous: false,
-        nav_icon: {
-          prev: '<i class="fa fa-chevron-left"></i>',
-          next: '<i class="fa fa-chevron-right"></i>'
-        }
-      });
-  });
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous">
 </script>
+<link rel="stylesheet" type="text/css" href="{{ site.baseUrl }}/assets/css/zabuto_calendar.min.css">
+<script async src="{{ site.baseUrl }}/assets/js/zabuto_calendar.min.js"></script>
+
+
+<script>
+  window.CALENDAR_ID = '{{ site.data.settings.CALENDAR_ID }}';
+  window.API_KEY = '{{ site.data.settings.API_KEY }}';
+</script>
+<script type="application/javascript" async src="/assets/js/load_events.js"></script>
