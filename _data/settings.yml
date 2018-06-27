@@ -13,7 +13,7 @@ menu:
 - {name: 'Produtos', folder: 'pages', file: 'produtos.html'}
 - {name: 'Mídia', folder: 'pages', file: 'midia.html'}
 - {name: 'Sobre', folder: 'pages', file: 'sobre.html'}
-- {name: 'Contato', folder: 'pages', file: 'contact.html'}
+- {name: 'Contato', folder: 'pages', file: 'contato.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

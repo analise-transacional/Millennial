@@ -1,0 +1,26 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: layout
+  name: layout
+  default: content
+  config:
+    required: true
+  hidden: true
+- type: text
+  name: title
+  label: Título
+  config:
+    required: true
+- type: text
+  name: categories
+  label: Categorias
+  config:
+    required: true
+  default: conteudo
+  hidden: true
+- type: tag_list
+  name: tags
+  label: Tags
