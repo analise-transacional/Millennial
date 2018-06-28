@@ -15,12 +15,32 @@
     return calendarAPI + eventsPath + ordering + timeMin + fields + key;
   }
 
+  var months = {
+    '01': 'janeiro',
+    '02': 'fevereiro',
+    '03': 'março',
+    '04': 'abril',
+    '05': 'maio',
+    '06': 'junho',
+    '07': 'julho',
+    '08': 'agosto',
+    '09': 'setembro',
+    '10': 'outubro',
+    '11': 'novembro',
+    '12': 'dezembro',
+  }
+
+  var formatDate = function(date) {
+    var dt = date.split('-');
+    return parseInt(dt[2], 10)+' de '+months[dt[1]]+', '+dt[0];
+  }
+
   var extractDate = function(start) {
     return (start.date) ? start.date : start.dateTime.split('T')[0];
   }
 
   var updateEventDisplay = function(date, eventsData) {
-    $(".event-date").html(date);
+    $(".event-date").html(formatDate(date));
     $(".event-title").html(eventsData[date].title);
     $(".event-location").html(eventsData[date].location || '');
     $(".event > a").attr('href', eventsData[date].link || '');
