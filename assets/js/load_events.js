@@ -20,10 +20,10 @@
   }
 
   var updateEventDisplay = function(date, eventsData) {
-    $("#evento > .event-date").html(date);
-    $("#evento > .event-title").html(eventsData[date].title);
-    $("#evento > .event-location").html(eventsData[date].location || '');
-    $("#evento > a").attr('href', eventsData[date].link || '');
+    $(".event-date").html(date);
+    $(".event-title").html(eventsData[date].title);
+    $(".event-location").html(eventsData[date].location || '');
+    $(".event > a").attr('href', eventsData[date].link || '');
   }
 
   var handleSelection = function(element, eventsData, selected) {
@@ -58,6 +58,7 @@
       var eventsData = {};
       var selected = {};
       
+      // Map events
       data.items.forEach(function(item, i) {
         var date = extractDate(item.start);
         events.push({ 
@@ -71,8 +72,12 @@
           link: item.description
         }
       });
-      $(".agenda").removeClass("hidden");
+
+      // Display calendar panel instead of loading panel
+      $("#agenda-container").removeClass("hidden");
+      $("#agenda-loading").addClass("hidden");
       
+      // Display calendar
       $("#zabuto-calendar").zabuto_calendar({
         data: events,
         language: "pt",
@@ -98,6 +103,7 @@
         }
       });
 
+      // Select first event
       if (data.items.length > 0){
         var selectedElement = findEventElement(extractDate(data.items[0].start));
         handleSelection(selectedElement, eventsData, selected);
