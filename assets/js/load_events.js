@@ -26,13 +26,16 @@
     $("#evento > a").attr('href', eventsData[date].link || '');
   }
 
-  var clickHandler = function(id, eventsData) {
-    var el = $("#" + id);
-    var hasEvent = el.data("hasEvent");
+  var handleSelection = function(element, eventsData, selected) {
+    var hasEvent = element.data("hasEvent");
     if (hasEvent) {
+      var date = element.data("date");
+      if (date !== selected.date) {
+        selected.date = date;
+        updateEventDisplay(date, eventsData);
+      }
       $(".at-event-selected").removeClass("at-event-selected");
-      el.addClass('at-event-selected');
-      updateEventDisplay(el.data("date"), eventsData);
+      element.addClass('at-event-selected');
     }
   }
 
@@ -43,43 +46,62 @@
     }
     return text; 
   }
+
+  var findEventElement = function(date) {
+    var idSelector = "td[id$='" + date + "']";
+    return $(idSelector);
+  }
     
   $(document).ready(function () {
     $.get(eventsUrl(new Date()), function(data) {
       var events = [];
       var eventsData = {};
-      var nextDate = 
+      var selected = {};
+      
       data.items.forEach(function(item, i) {
         var date = extractDate(item.start);
-        var classname = (i === 0) ? 'at-event at-event-selected' : 'at-event';
         events.push({ 
           date: date,
           title: titleText(item),
-          classname: classname
+          classname: 'at-event'
         });
         eventsData[date] = {
           title: item.summary,
           location: item.location,
           link: item.description
         }
-        if (i === 0) {
-          updateEventDisplay(date, eventsData);
-        }
       });
       $(".agenda").removeClass("hidden");
+      
       $("#zabuto-calendar").zabuto_calendar({
         data: events,
         language: "pt",
         weekstartson: 0,
         show_previous: false,
         action: function () {
-          return clickHandler(this.id, eventsData);
+          var el = $("#" + this.id);
+          return handleSelection(el, eventsData, selected);
+        },
+        action_nav: function () {
+          if (selected.date) {
+            return setTimeout(function() {
+              var el = findEventElement(selected.date);
+              if (el.length !== 0) {
+                handleSelection(el, eventsData, selected);
+              }
+            }, 70);
+          }
         },
         nav_icon: {
           prev: '<i class="fa fa-chevron-left"></i>',
           next: '<i class="fa fa-chevron-right"></i>'
         }
       });
+
+      if (data.items.length > 0){
+        var selectedElement = findEventElement(extractDate(data.items[0].start));
+        handleSelection(selectedElement, eventsData, selected);
+      }
     });
   });
 

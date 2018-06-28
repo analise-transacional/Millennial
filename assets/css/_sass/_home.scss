@@ -130,16 +130,18 @@
 }
 
 .at-event {
-  background-color: #298426;
-  color: white;
   font-weight: bold;
+  box-shadow: inset 2px 2px #298426, inset -2px -2px #298426;
+  color: #298426;
 }
 
 .at-event-selected {
-  background-color: red;
-
+  background-color: #298426;
+  color: white;
+  
   div {
-    background-color: red;
+    background-color: #298426;
+    color: white;
   }
 }
 
