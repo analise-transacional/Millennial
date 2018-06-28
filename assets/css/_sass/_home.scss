@@ -104,6 +104,11 @@
     border-top: 0;
     border-bottom: 1px solid rgba(128, 128, 128, 0.3);
   }
+
+  td div {
+    cursor: auto;
+  }
+  
   
   #agenda-loading {
     position: relative;
@@ -153,6 +158,10 @@
   font-weight: bold;
   box-shadow: inset 2px 2px #298426, inset -2px -2px #298426;
   color: #298426;
+}
+
+.at-event:hover {
+  cursor: pointer;
 }
 
 .at-event-selected {

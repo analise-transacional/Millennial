@@ -103,6 +103,9 @@
         }
       });
 
+      // Remove class so only cells with events are clickable
+      // $(".dow-clickable").removeClass("dow-clickable");
+
       // Select first event
       if (data.items.length > 0){
         var selectedElement = findEventElement(extractDate(data.items[0].start));
