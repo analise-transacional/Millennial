@@ -22,8 +22,8 @@ title: Home
 <section class="agenda">
   <h2>Programe-se</h2>
   <div id="agenda-loading">
-    <p>Carregando agenda</p>
     <div class="spinner"></div>
+    <p>Carregando agenda</p>
   </div>
   <div id="agenda-container" class="flex hidden">
     <div id="calendar-container">
@@ -33,7 +33,11 @@ title: Home
       <div class="event">
         <h3 class="event-title">Agenda livre</h3>
         <p>
-          <span class="event-date"></span> - 
+          <i class="fa fa-calendar"></i>
+          <span class="event-date"></span>
+        </p>
+        <p style="max-width: 80%;">
+          <i class="fa fa-map-marker"></i>
           <span class="event-location"></span>
         </p>
         <a target="_blank" href="{{ site.baseUrl }}/pages/produtos.html">Saiba mais</a>

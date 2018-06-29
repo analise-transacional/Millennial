@@ -26,21 +26,21 @@
     return (start.date) ? start.date : start.dateTime.split('T')[0];
   }
 
-  var updateEventDisplay = function(date, eventsData) {
-    $(".event-date").html(formatDate(date));
-    $(".event-title").html(eventsData[date].title);
-    $(".event-location").html(eventsData[date].location || '');
-    $(".event > a").attr('href', eventsData[date].link || '');
+  var selectEvent = function(date, eventsData, selected) {
+    if (date !== selected.date) {
+      selected.date = date;
+      $(".event-date").html(formatDate(date));
+      $(".event-title").html(eventsData[date].title);
+      $(".event-location").html(eventsData[date].location || '');
+      $(".event > a").attr('href', eventsData[date].link || '/pages/produtos.html');
+    }
   }
 
   var handleSelection = function(element, eventsData, selected) {
     var hasEvent = element.data("hasEvent");
     if (hasEvent) {
       var date = element.data("date");
-      if (date !== selected.date) {
-        selected.date = date;
-        updateEventDisplay(date, eventsData);
-      }
+      selectEvent(date, eventsData, selected);
       $(".at-event-selected").removeClass("at-event-selected");
       element.addClass('at-event-selected');
     }
@@ -65,7 +65,7 @@
     var selected = {};
     
     // Map events
-    rawEvents.items.forEach(function(item, i) {
+    rawEvents.items.forEach(function(item) {
       var date = extractDate(item.start);
       events.push({ 
         date: date,
@@ -110,9 +110,13 @@
     });
 
     // Select first event
-    if (rawEvents.items.length > 0){
-      var selectedElement = findEventElement(extractDate(rawEvents.items[0].start));
-      handleSelection(selectedElement, eventsData, selected);
+    if (events.length > 0){
+      var selectedElement = findEventElement(events[0].date);
+      if (selectedElement.length !== 0) { // Event is in current month
+        handleSelection(selectedElement, eventsData, selected);
+      } else {
+        selectEvent(events[0].date, eventsData, selected);
+      }
     }
   }
     
