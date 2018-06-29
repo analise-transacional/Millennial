@@ -2,6 +2,12 @@
 layout: default
 title: Home
 ---
+<script>
+  window.CALENDAR_ID = '{{ site.data.settings.CALENDAR_ID }}';
+  window.API_KEY = '{{ site.data.settings.API_KEY }}';
+</script>
+<script src="/assets/js/load_calendar_events.js"></script>
+  
 
 <div class="hero"
   style="background-image:url({{ site.baseUrl }}/assets/img/home.jpg);">
@@ -68,8 +74,4 @@ title: Home
   
 </section>
 
-<script>
-  window.CALENDAR_ID = '{{ site.data.settings.CALENDAR_ID }}';
-  window.API_KEY = '{{ site.data.settings.API_KEY }}';
-</script>
-<script defer src="/assets/js/calendar_events.js"></script>
+<script defer src="/assets/js/display_calendar_events.js"></script>
