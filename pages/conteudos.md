@@ -2,14 +2,12 @@
 title: Conteúdos
 layout: misc
 ---
+
+### Conceitos de Análise Transacional
+
 Eric Berne escreveu e nos presenteou com......
 
-##### Estrutura da Personalidade
-
-* Estados de Ego
-* Estados de Ego Estrutura
-* Estados de Ego Funcionamento
-* Disfunções dos Estados de Ego
+##### [Estrutura da Personalidade](/conteudo/estrutura-da-personalidade.html)
 
 ##### Posições Existenciais
 
