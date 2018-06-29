@@ -24,3 +24,5 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+pages:
+- _posts/curso-inteligencia-relacional-at-101.md
