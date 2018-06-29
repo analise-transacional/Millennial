@@ -6,6 +6,12 @@
         alt="{{ site.title }}">
     </a>
   </h3>
+  <form id="search-box">
+    <input type="text" id="search-input" 
+      placeholder="Buscar..."
+      autocomplete="off">
+    <div id="results-container"></div>
+  </form>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.baseUrl }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a>
@@ -24,3 +30,5 @@
     </div>
   </div>
 </header>
+
+<script defer src="{{ site.baseUrl }}/assets/js/init_search.js"></script>

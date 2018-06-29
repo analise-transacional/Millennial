@@ -16,7 +16,7 @@ menu:
 - {name: 'Artigos', folder: 'pages', file: 'artigos.html'}
 - {name: 'Conteúdos', folder: 'pages', file: 'conteudos.html'}
 - {name: 'Produtos', folder: 'pages', file: 'produtos.html'}
-- {name: 'Mídia', folder: 'pages', file: 'midia.html'}
+# - {name: 'Mídia', folder: 'pages', file: 'midia.html'}
 - {name: 'Sobre', folder: 'pages', file: 'sobre.html'}
 - {name: 'Contato', folder: 'pages', file: 'contato.html'}
 

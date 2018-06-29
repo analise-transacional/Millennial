@@ -22,4 +22,10 @@ $phone-width: 768px;
 
 $header-thickness: 56px;
 
+$at-green: #298426;
+
+* {
+  outline-color: $at-green;
+}
+
 @import "_sass/-sections-dir";
