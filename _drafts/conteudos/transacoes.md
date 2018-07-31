@@ -12,7 +12,7 @@ tags:
 - transação complementar
 
 ---
-Transação é a base da Análise Transacional, inclusive no nome, pois trata do estudo das transações que são intercâmbios de estímulos e respostas entre estados específicos de Ego de duas pessoas. 
+Transação é a base da Análise Transacional, inclusive no nome, pois trata do estudo das _'transações'_ que são intercâmbios de estímulos e respostas entre estados específicos de Ego de duas pessoas. 
 
 Chamam-se transações porque existe uma ação (estímulo) e uma reação (resposta) verbal ou não verbal. Transação é a menor unidade de ação das relações sociais. 
 
