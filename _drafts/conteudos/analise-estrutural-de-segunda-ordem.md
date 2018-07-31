@@ -7,7 +7,7 @@ tags:
 - analise estrutural de segunda ordem
 
 ---
-Existem formas diferentes de diagramar a Análise Estrutural de Segunda Ordem. Essa é a forma de Eric Berne:
+Existem formas diferentes de diagramar a Análise Estrutural de Segunda Ordem, de acordo com o foco de cada autor. Essa é a forma de Eric Berne:
 
 ![](/media/Analise Estrutural de Segunda Ordem-1.jpg)**P1: Estado de Ego Pai:** O P2 refere-se ao Pai dentro do Pai e diz respeito a influencia dos avós.
 
@@ -29,13 +29,11 @@ P1: Criança Adaptada, eletrodo, bruxa ou Pai Tira, que “protege” de coisas 
 
 O Pai Tira não é sustentador nem protetor e sim opressivo, faz as pessoas não se sentirem OK, porque sua função á força-las a fazer coisas que não querem fazer.
 
- 
-
 A1: É chamado de professorzinho, é vívida e inquisitiva é capaz de compreender o que escapa ao Adulto (A2), tem como função a intuição e a consciência. A intuição fornece extrema compreensão das variáveis envolvidas em um relacionamento, onde é capaz de detectar o significado real das transações. 
 
 C1: É a Criança Natural, o príncipe ou a princesa e tem a função de espontaneidade e intimidade, com comportamento mais emotivo, poderoso e talvez irresistível.
 
-Bibliografia:
+**Bibliografia:**
 
 BERNE, Eric, Análise Transacional em Psicoterapia, Editorial Summus, São Paulo, 1961. 
 
