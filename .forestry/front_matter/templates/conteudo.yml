@@ -26,5 +26,5 @@ fields:
   name: tags
   label: Tags
 pages:
-- _posts/conteudos/desqualificacao.md
 - _posts/conteudos/contratos-em-analise-transacional.md
+- _posts/conteudos/desqualificacao.md
