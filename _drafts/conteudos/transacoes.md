@@ -42,7 +42,7 @@ Resposta: Sim, li, convém discutirmos algumas questões (A-A).
 
 **2.Transações Cruzadas:** Quando o estímulo é recebido por um estado de ego diferente daquele que era intenção do emissor e a resposta se dirige a outro estado de ego diferente daquele que emitiu o estímulo, isto é, seus vetores se cruzam nos diagramas.
 
-![](/media/transacoes cruzadas.jpg)
+![](/media/transacoes cruzadas-1.jpg)
 
 **3. Transações Ulteriores:** Contém dois tipos de mensagens: uma social e outra psicológica. É quando uma mensagem oculta é enviada juntamente com uma outra mais aceitável socialmente. Para identificar este tipo de transação é importante prestar atenção na linguagem não-verbal, uma vez que a mensagem é oculta.
 
