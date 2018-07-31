@@ -9,6 +9,8 @@ tags:
 - Claude Steiner
 
 ---
+_Por Simone Klober_
+
 Contrato refere-se a um acordo formal e transparente que oficializa o objetivo do desenvolvimento de um trabalho, as etapas e as condições para sua realização.
 
 Deve ser estruturado com uma linguagem simples e objetiva, realista e mensurável. O contrato é firmado entre as partes envolvidas em qualquer atividade ou forma de relacionamento em AT seja atendimento clínico, trabalho de desenvolvimento, consultoria ou coaching.
@@ -39,7 +41,7 @@ Alguns exemplos de desacordo com o quesito competência:
 
 **Objeto Legal:** Cliente e terapeuta trabalharão juntos utilizando-se de meios legais e éticos.
 
-Apesar da formalização estruturada, todo contrato tem uma parte subjetiva com um carácter dinâmico uma vez que se modifica ao longo da evolução da comunicação (ou não comunicação) entre as partes. Trata-se de um conjunto de crenças acerca das obrigações mútuas mantidas pelas pessoas, mas que não estão escritas em nenhum lugar. Portanto, o contrato evolui à medida que as partes vão se comunicando e interagindo. Por isso, é importante que ele seja checado de tempos em tempos também para garantir que não há desacordos ou pontos sem entendimento por uma ou ambas as partes. À medida que o contrato formal for sendo revisto, questões subjetivas também serão tratadas. 
+Apesar da formalização estruturada, todo contrato tem uma parte subjetiva com um carácter dinâmico uma vez que se modifica ao longo da evolução da comunicação (ou não comunicação) entre as partes. Trata-se de um conjunto de crenças acerca das obrigações mútuas mantidas pelas pessoas, mas que não estão escritas em nenhum lugar. Portanto, o contrato evolui à medida que as partes vão se comunicando e interagindo. Por isso, é importante que ele seja checado de tempos em tempos também para garantir que não há desacordos ou pontos sem entendimento por uma ou ambas as partes. À medida que o contrato formal for sendo revisto, questões subjetivas também serão tratadas.
 
 O contrato é algo vivo e deve ser recontratado sempre que necessário.
 
