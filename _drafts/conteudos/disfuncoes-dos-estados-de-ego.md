@@ -57,8 +57,8 @@ Já a **exclusão de dois Estados de Ego** é ocasionada pela concentração de 
 
 **Bibliografia:**
 
-BERNE, Eric, Análise Transacional em Psicoterapia, Editorial Summus, São Paulo, 1961. (p.57-63)
+BERNE, Eric, Análise Transacional em Psicoterapia, Editorial Summus, São Paulo, 1961. 
 
-STEINER, Claude, Os Papéis Que Vivemos na Vida, Ed. Artenova, Rio de Janeiro, 1976. (p.40, 41 e 42)
+STEINER, Claude, Os Papéis Que Vivemos na Vida, Ed. Artenova, Rio de Janeiro, 1976. 
 
-WOOLLAMS, Stan. e Brown, Michael, Manual Completo de Análise Transacional, tradução de Octavio Mendes Cajado, Editora Cultrix, São Paulo, 1979. (p.44-46)
+WOOLLAMS, Stan. e Brown, Michael, Manual Completo de Análise Transacional, tradução de Octavio Mendes Cajado, Editora Cultrix, São Paulo, 1979. 
