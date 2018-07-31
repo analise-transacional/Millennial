@@ -9,7 +9,9 @@ tags:
 - desatada
 
 ---
-Catexia é a energia psíquica, que segundo Berne é constituída de três tipos: a atada, a desatada e a livre. 
+_Por Simone Klober_
+
+Catexia é a energia psíquica, que segundo Berne é constituída de três tipos: a atada, a desatada e a livre.
 
 Kertez, a partir dos conceitos de Berne estruturou o quadro abaixo para evidenciar as formas de catexia, a similaridade com os conceitos da energia física, como é a fluidez dessa energia nos diferentes Estados de Ego e sua relação com a realidade.
 
@@ -19,12 +21,10 @@ Quando o macaco está imóvel no galho, a energia física está atada. Quando el
 
 Segundo Berne, as fronteiras do Ego são relativamente permeáveis para a catexia atada e desatada. Já a catexia livre pode passar de um estado de Ego para outro com relativa facilidade.
 
- 
-
 **Bibliografia:**
 
-DUSSAY, J. M., Os Egogramas e a "Hipótese de Constância", in: Prêmios Eric Berne. 
+DUSSAY, J. M., Os Egogramas e a "Hipótese de Constância", in: Prêmios Eric Berne.
 
-JAMES, M. e Jongeward, D., Nascidos para Vencer, Editora Brasiliense, São Paulo, 1975. 
+JAMES, M. e Jongeward, D., Nascidos para Vencer, Editora Brasiliense, São Paulo, 1975.
 
-KERTÉSZ, Roberto. Manual de Análisis Transaccional, Editora Conantal, B. Aires. 
+KERTÉSZ, Roberto. Manual de Análisis Transaccional, Editora Conantal, B. Aires.
