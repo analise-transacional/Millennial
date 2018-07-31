@@ -38,8 +38,8 @@ Segundo Aaron e Jacqui Schiff, as manifestações observáveis de passividade s�
 **Incapacidade ou Violência**: É um comportamento passivo final; nele a pessoa desistiu totalmente da responsabilidade de pensar e de resolver problemas. Segundo Schiff, não há maneira eficaz de ativar o Adulto até que a energia gerada seja descarregada. Como o indivíduo está sobre grande pressão interna, é conveniente que seja protegido a fim de que a descarga energética ocorra, evitando assim, a escalada. Após a descarga, a pessoa tende a ser racional e acessível às intervenções, com muita catexia na criança e com um adulto prontamente conectável, podendo assim ser levado a assumir responsabilidades. Schiff afirma que tanto a Incapacidade como a Violência constituem em benefícios nos Jogos de "Eu não agüento mais", logo, envolve grandiosidade.
 
 **Bibliografia:**  
-KERTÉSZ, Roberto. Manual de Análisis Transaccional, Editora Conantal, B. Aires. (p. 63-67)
+KERTÉSZ, Roberto. Manual de Análisis Transaccional, Editora Conantal, B. Aires. 
 
-SCHIFF, Jacqui Lee e Schiff, Aaron W., Passividade, in Prêmios Eric Berne. (p. 29-39)
+SCHIFF, Jacqui Lee e Schiff, Aaron W., Passividade, in Prêmios Eric Berne. 
 
-WOOLLAMS, Stan. e Brown, Michael, Manual Completo de Análise Transacional, tradução de Octavio Mendes Cajado, Editora Cultrix, São Paulo, 1979. (p.102-109 SCHIFF, Jacqui Lee e Schiff, Aaron W., Passividade, in Prêmios Eric Berne. (p. 29-39)
+WOOLLAMS, Stan. e Brown, Michael, Manual Completo de Análise Transacional, tradução de Octavio Mendes Cajado, Editora Cultrix, São Paulo, 1979. 
