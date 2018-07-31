@@ -26,6 +26,7 @@ fields:
   name: tags
   label: Tags
 pages:
+- _posts/conteudos/desqualificacao.md
 - _posts/conteudos/diagrama-funcional-dos-estados-de-ego.md
 - _posts/conteudos/disfuncoes-dos-estados-de-ego.md
 - _posts/conteudos/reconhecimentos-ou-caricias.md
@@ -36,5 +37,4 @@ pages:
 - _posts/conteudos/analise-estrutural-de-segunda-ordem.md
 - _posts/conteudos/simbiose.md
 - _posts/conteudos/comportamentos-passivos.md
-- _posts/conteudos/desqualificacao.md
 - _posts/conteudos/estados-de-ego.md
