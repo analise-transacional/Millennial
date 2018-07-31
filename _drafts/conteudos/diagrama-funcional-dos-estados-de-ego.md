@@ -3,7 +3,8 @@ title: Diagrama Funcional dos Estados de Ego
 layout: content
 categories: conteudo
 date: 2018-07-31 17:54:00 -0300
-tags: []
+tags:
+- diagrama funcional
 
 ---
 Segundo Kertész, o diagrama funcional descreve as condutas observáveis de cada estado de ego, sendo divididos em cinco estados funcionais de Ego que possuem uma forma positiva ou negativa de comportamento.
