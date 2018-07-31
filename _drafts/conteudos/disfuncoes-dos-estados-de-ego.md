@@ -10,11 +10,13 @@ tags:
 - lesao de fronteira
 
 ---
+_Por Simone Klober_
+
 As disfunções dos Estados de Ego podem ocorrer por Contaminação, Exclusão ou Lesão de Fronteira.
 
-**CONTAMINAÇÃO:** É um fenômeno da invasão do estado de ego Adulto pelo estado de ego Pai e/ou Criança, tornando as fronteiras confusas. Esta passagem incontrolada de mensagens impede o Adulto de tomar decisões autônomas. 
+**CONTAMINAÇÃO:** É um fenômeno da invasão do estado de ego Adulto pelo estado de ego Pai e/ou Criança, tornando as fronteiras confusas. Esta passagem incontrolada de mensagens impede o Adulto de tomar decisões autônomas.
 
-A contaminação pode ser de três tipos: 
+A contaminação pode ser de três tipos:
 
 ![](/media/Contaminaçao Simples Pai.jpg)
 
@@ -35,18 +37,14 @@ A Exclusão pode ser de um ou dois Estados de Ego.
 **Exclusão de um único estado de Ego:** Ocasionado pela concentração de energia psíquica nos outros dois que podem assumir as seguintes formas:
 
 * Exclusão da Criança: Em geral ocorre como uma manobra defensiva para eliminar a Criança negativa (confusa ou louca) e manter o funcionamento da personalidade. É uma reação típica também das pessoas que não sabem usufruir da vida, que não possuem criatividade e intuição.
-
-
 * Exclusão do Pai: Observado em pessoas que agem irresponsavelmente ou não eticamente. Também ocorre quando o indivíduo não tem capacidade de dar apoio ou proteção a si ou aos outros.
-
-
 * Exclusão do Adulto: Quando o indivíduo tem o Adulto excluído, ele utiliza apenas comportamentos, sentimentos e pensamentos do Pai e da Criança que estão relacionados com a realidade objetiva do "aqui e agora".
 
 Já a **exclusão de dois Estados de Ego** é ocasionada pela concentração de energia psíquica num dos Estados de Ego que dificulta ou impede a energização dos outros dois. Berne denomina este fenômeno de Pai Excludente, Adulto Excludente e Criança Excludente, e podem assumir as seguintes formas:
 
-* Exclusão dos Estados de Ego Adulto e Criança: Prevalece no comportamento da pessoa o Estado de Ego Pai, tendendo ao autoritarismo, superproteção e inflexibilidade. Cria condições para relações de dependência, nepotismo, concentração de poder e falta de autonomia. São comportamentos estereotipados, repetitivos, impositivos, de resistência às mudanças, orientados por padrões tradicionais, fora do contexto sócio cultural e dos valores vigentes. 
-* Exclusão dos Estados de Ego Pai e Criança: Caracteriza indivíduos frios, calculistas, objetividade aumentada, não se permitem sentir e demonstrar emoções e sentimentos, empatia, compaixão, proteção, solidariedade. Pode ser comparado a um processador de dados que parece não se envolver com nada. 
-* Exclusão dos Estados de Ego Pai e Adulto: caracterizado pela ‘síndrome de Peter Pan’. Conforme James e Jongeward, “o perpétuo garoto ou menina que, como Peter Pan, se recusa a crescer”. Tem dificuldades de assumir responsabilidade por seus próprios atos e tomar decisões. Procura o apoio e a proteção de outros, bem como direcionamento, atenção e reconhecimento. 
+* Exclusão dos Estados de Ego Adulto e Criança: Prevalece no comportamento da pessoa o Estado de Ego Pai, tendendo ao autoritarismo, superproteção e inflexibilidade. Cria condições para relações de dependência, nepotismo, concentração de poder e falta de autonomia. São comportamentos estereotipados, repetitivos, impositivos, de resistência às mudanças, orientados por padrões tradicionais, fora do contexto sócio cultural e dos valores vigentes.
+* Exclusão dos Estados de Ego Pai e Criança: Caracteriza indivíduos frios, calculistas, objetividade aumentada, não se permitem sentir e demonstrar emoções e sentimentos, empatia, compaixão, proteção, solidariedade. Pode ser comparado a um processador de dados que parece não se envolver com nada.
+* Exclusão dos Estados de Ego Pai e Adulto: caracterizado pela ‘síndrome de Peter Pan’. Conforme James e Jongeward, “o perpétuo garoto ou menina que, como Peter Pan, se recusa a crescer”. Tem dificuldades de assumir responsabilidade por seus próprios atos e tomar decisões. Procura o apoio e a proteção de outros, bem como direcionamento, atenção e reconhecimento.
 
 **LESÃO DE FRONTEIRA:** Lesão de fronteira refere-se a uma patologia funcional, relativa à permeabilidade das fronteiras dos Estados de Ego. Baixa permeabilidade conduz à exclusão de Estado de Ego, por outro lado permeabilidade extrema tem outra consequência que é a inabilidade da pessoa de se conservar no Adulto. As lesões de fronteira podem ser:
 
@@ -57,8 +55,8 @@ Já a **exclusão de dois Estados de Ego** é ocasionada pela concentração de 
 
 **Bibliografia:**
 
-BERNE, Eric, Análise Transacional em Psicoterapia, Editorial Summus, São Paulo, 1961. 
+BERNE, Eric, Análise Transacional em Psicoterapia, Editorial Summus, São Paulo, 1961.
 
-STEINER, Claude, Os Papéis Que Vivemos na Vida, Ed. Artenova, Rio de Janeiro, 1976. 
+STEINER, Claude, Os Papéis Que Vivemos na Vida, Ed. Artenova, Rio de Janeiro, 1976.
 
-WOOLLAMS, Stan. e Brown, Michael, Manual Completo de Análise Transacional, tradução de Octavio Mendes Cajado, Editora Cultrix, São Paulo, 1979. 
+WOOLLAMS, Stan. e Brown, Michael, Manual Completo de Análise Transacional, tradução de Octavio Mendes Cajado, Editora Cultrix, São Paulo, 1979.
