@@ -10,7 +10,9 @@ tags:
 - simbiose competitiva
 
 ---
-Simbiose é o fenômeno onde dois indivíduos se comportam como se formassem uma pessoa inteira. Esse relacionamento é caracterizado pelo fato de nenhum dos dois indivíduos concentrarem energia no número total de Estados de Ego. 
+_Por Simone Klober_
+
+Simbiose é o fenômeno onde dois indivíduos se comportam como se formassem uma pessoa inteira. Esse relacionamento é caracterizado pelo fato de nenhum dos dois indivíduos concentrarem energia no número total de Estados de Ego.
 
 Segundo Kertész são três os tipos de simbiose:
 
@@ -24,16 +26,16 @@ Segundo Kertész são três os tipos de simbiose:
 
 Trata-se de uma relação de dependência causada pelo fato de que ambas as pessoas que a integram não consideram a opção de serem pessoas completas em si mesmas, inibindo a capacidade de desenvolvimento de ambos.
 
-Quando nas relações, as Simbioses podem ocorrer de duas maneiras, de forma competitiva ou complementar. 
+Quando nas relações, as Simbioses podem ocorrer de duas maneiras, de forma competitiva ou complementar.
 
 **1.Simbiose Competitiva**: é quando cada um dos indivíduos está competindo pela mesma posição na Simbiose. Ambos percebem a mesma posição como sendo preferível para definir a realidade. Nesse caso, cedo ou tarde, um cederá ou ambos renunciarão ao relacionamento.
 
-**2.Simbiose Complementar:** é quando os indivíduos concordam, mutuamente com as suas posições. 
+**2.Simbiose Complementar:** é quando os indivíduos concordam, mutuamente com as suas posições.
 
 **Bibliografia:**
 
-KERTÉSZ, Roberto. Manual de Análisis Transaccional, Editora Conantal, B. Aires. 
+KERTÉSZ, Roberto. Manual de Análisis Transaccional, Editora Conantal, B. Aires.
 
-SCHIFF, Jacqui Lee e Schiff, Aaron W., Passividade, in Prêmios Eric Berne. 
+SCHIFF, Jacqui Lee e Schiff, Aaron W., Passividade, in Prêmios Eric Berne.
 
 WOOLLAMS, Stan. e Brown, Michael, Manual Completo de Análise Transacional, tradução de Octavio Mendes Cajado, Editora Cultrix, São Paulo, 1979.
