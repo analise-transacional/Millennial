@@ -13,6 +13,8 @@ tags:
 - Arqueopsique
 
 ---
+_Por Simone Klober_
+
 De acordo com Eric Berne, os Estados do Ego são sistemas coerentes de pensamento e sentimento, manifestado por padrões de comportamentos correspondentes. São como vozes internas que se manifestam de acordo com uma determinada estrutura e tem uma determinada função nas transações entre as pessoas.
 
 O conceito de Estados de Ego constitui o alicerce da AT e refere-se a estrutura de personalidade de uma pessoa.
@@ -23,7 +25,7 @@ Os Estados de Ego podem ser analisados segundo sua estrutura e segundo a sua fun
 
 **Análise Estrutural:**
 
-Ao analisarmos sua estrutura, estaremos olhando para “o que” ou para o “conteúdo” de cada Estado de Ego. 
+Ao analisarmos sua estrutura, estaremos olhando para “o que” ou para o “conteúdo” de cada Estado de Ego.
 
 ![](/media/Estados de Ego Estrutural.png)
 
