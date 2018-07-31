@@ -19,11 +19,19 @@ O conceito de Estados de Ego constitui o alicerce da AT e refere-se a estrutura 
 
 Desde o início, Berne lançou mão de uma metáfora visual, correspondentes aos três círculos, para representar os Estados de Ego com o objetivo de facilitar a transmissão de suas ideias:
 
-![](/media/Estados de Ego Estrutural.png)
-
 Os Estados de Ego podem ser analisados segundo sua estrutura e segundo a sua função.
 
-Ao analisarmos sua estrutura, estaremos olhando para “o que” ou para o “conteúdo” de cada Estado de Ego. Já ao analisarmos a sua função, estaremos tratando de “como” os Estados de Ego se manifestam durante as transações humanas.
+**Análise Estrutural:**
+
+Ao analisarmos sua estrutura, estaremos olhando para “o que” ou para o “conteúdo” de cada Estado de Ego. 
+
+![](/media/Estados de Ego Estrutural.png)
+
+**Análise Funcional:**
+
+Já ao analisarmos a sua função, estaremos tratando de “como” os Estados de Ego se manifestam durante as transações humanas.
+
+![](/media/Estados de Ego Funcional.png)
 
 Estados de Ego são ainda a manifestações fenomenológicas e comportamentais das atividades de um órgão psíquico, ou organizador, estruturado em três instâncias:
 
