@@ -26,7 +26,6 @@ fields:
   name: tags
   label: Tags
 pages:
-- _posts/conteudos/desqualificacao.md
 - _posts/conteudos/simbiose.md
 - _posts/conteudos/sensacao-emocao-e-sentimento.md
 - _posts/conteudos/disfuncoes-dos-estados-de-ego.md
@@ -36,6 +35,7 @@ pages:
 - _posts/conteudos/transacoes.md
 - _posts/conteudos/analise-estrutural-de-segunda-ordem.md
 - _posts/conteudos/comportamentos-passivos.md
+- _posts/conteudos/desqualificacao.md
 - _posts/conteudos/estruturacao-do-tempo-social.md
 - _posts/conteudos/estados-de-ego.md
 - _posts/conteudos/catexia.md

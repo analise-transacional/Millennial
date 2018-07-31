@@ -31,11 +31,21 @@ São quatro os **Modos**:
 * Possibilidade de mudança
 * Habilidades pessoais das pessoas em relação aos tipos acima.
 
-![](/media/Matriz Desqualificacao.png)**Bibliografia:**  
+![](/media/Matriz Desqualificacao.png)**Grandiosidade**
+
+A grandiosidade envolve generalização ou exagero (maximização/minimização) de características, atributos, fatos, ilusões ou informações, que sustentam a desqualificação e servem como justificativa para a inação. Dessa forma, as pessoas não assumem a responsabilidade por suas decisões, procurando transferi-las para o outro ou para a situação. Exemplos:
+
+“O erro é inevitável numa economia em que as condições mudam a cada minuto”, dito por alguém que acabou de cometer um erro.
+
+“Todos nesta empresa são uns incompetentes”, dito por um dirigente da empresa ao descobrir um erro.
+
+“Não existe nenhuma empresa na qual os funcionários estejam satisfeitos”. Dito por alguém que desconsidera as reivindicações de sua equipe.
+
+**Bibliografia:**  
 CARACUSHANSKY, Sophia. R; Curso Avançado de Análise Transacional de Base Psicanalítica, Editora Assertiva, São Paulo.
 
-KRAUSZ, Rosa. Trabalhabilidade, Ed. Nobel, São Paulo, 1999.Editora Assertiva, São Paulo. 
+KRAUSZ, Rosa. Trabalhabilidade, Ed. Nobel, São Paulo, 1999.Editora Assertiva, São Paulo.
 
 SCHIFF, Jacqui Lee e Schiff, Aaron W., Passividade, in Prêmios Eric Berne.
 
-WOOLLAMS, Stan. e Brown, Michael, Manual Completo de Análise Transacional, tradução de Octavio Mendes Cajado, Editora Cultrix, São Paulo, 1979. 
+WOOLLAMS, Stan. e Brown, Michael, Manual Completo de Análise Transacional, tradução de Octavio Mendes Cajado, Editora Cultrix, São Paulo, 1979.
