@@ -62,6 +62,14 @@ Emoções são respostas do aqui-e-agora aos estímulos internos e externos. Uma
 
 Como distinguir uma Emoção Natural de um Sentimento Disfarce![](/media/Como diferenciar emocoes autenticas.png)
 
+São Três os critérios de diferenciação:
+
+**Qualidade:** É adequada em qualidade a situação vivenciada no aqui e agora. A emoção natural é proporcional ao seu estímulo.
+
+**Duração:** A emoção natural tem uma expressão que começa, tem um ápice e um final. É adequada em duração à situação. A emoção aprendida ou disfarce é vinculada a um aspecto do passado e não se conclui.
+
+**Intensidade:** A emoção natural manifesta-se com intensidade coerente com a situação vivenciada no presente. A emoção aprendida tem reação desproporcional e exagerada.
+
 **Bibliografia:**
 
 BERNE, Eric; O Que Você Diz Depois de Dizer Olá?, Nobel, São Paulo, 1988. 
