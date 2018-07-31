@@ -3,7 +3,14 @@ title: Estados de Ego
 layout: content
 categories: conteudo
 date: 2018-07-31 17:28:42 -0300
-tags: []
+tags:
+- Estados de Ego
+- Fenômenos
+- Organizadores
+- Determinantes
+- Extereopsique
+- Neopsique
+- Arqueopsique
 
 ---
 De acordo com Eric Berne, os Estados do Ego são sistemas coerentes de pensamento e sentimento, manifestado por padrões de comportamentos correspondentes. 
