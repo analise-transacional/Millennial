@@ -27,6 +27,7 @@ fields:
   label: Tags
 pages:
 - _posts/conteudos/diagrama-funcional-dos-estados-de-ego.md
+- _posts/conteudos/disfuncoes-dos-estados-de-ego.md
 - _posts/conteudos/formas-de-diagnostico-dos-estados-de-ego.md
 - _posts/conteudos/contratos-em-analise-transacional.md
 - _posts/conteudos/desqualificacao.md
