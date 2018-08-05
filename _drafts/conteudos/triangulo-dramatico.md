@@ -15,7 +15,7 @@ Karpman criou o Triângulo Dramático que é o instrumento através do qual se p
 
 As pessoas que desempenham os Papéis no Triângulo Dramático aprenderam a desempenhá-los na infância, interagindo com seus familiares e, depois de muitas repetições, irão automática e inconscientemente desempenhar tais Papéis em suas vidas.
 
-**Perseguidor:** 
+![](/media/Imagem triangulo dramatico-1.png)**Perseguidor:** 
 
 Manipula infundindo medo. Dá carícias agressivas. Necessita ser temido (encobrindo sua própria insegurança). Profissões favoritas: inspetores, policiais, juízes, professores, etc. É claro que somente alguns desses profissionais atuam como Perseguidores no conceito do Triângulo Dramático. Outros desempenham corretamente sua função, respeitando os demais.
 
