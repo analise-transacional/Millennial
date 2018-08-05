@@ -41,5 +41,6 @@ R = Resposta - O segundo participante responde à isca, em decorrência de sua f
 
 M = Mudança - É a fase em que o primeiro participante muda de Estado de Ego, determinando a mudança também no segundo participante, gerando surpresas. Ao trocar de Estado de Ego, os participantes trocam também de papéis;
 
-C = Confusão - É o momento de perplexidade que se segue à Mudança e antecede ao Benefício Final;  
+C = Confusão - É o momento de perplexidade que se segue à Mudança e antecede ao Benefício Final;
+
 BF = Benefício Final - É o "prêmio" de cada jogador e corresponde ao disfarce que cada um experimenta ao final do jogo. Durante as diversas fases dos jogos, os jogadores experimentam outros pseudo-benefícios.     
